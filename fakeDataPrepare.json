@@ -1,0 +1,68 @@
+[
+    {   
+        "name":"Hypnotic Poison Eau de Parfum",
+        "brand":"Dior",
+        "price":180.00,
+        "quantity":10,
+        "supplier":"Myer",
+        "size":"50ml",
+        "short-description":"Seeped in extreme natural tones, Hypnotic Poison Eau de Parfum draws its strength from powerful absolutes.",
+        "description":"Seeped in extreme natural tones, Hypnotic Poison Eau de Perfume draws its strength from powerful absolutes.The lush charm of sambac jasmine absolute mingled with a welcoming orange blossom absolute is wrapped in smooth, intensely evocative tonka bean. The round licorice note behind the seductiveness of Hypnotic Poison is boosted to new, bolder heights. It creates irresistible appeal empowered by the vanilla, an immediate sign of gratitude. An atmosphere of total deliciousness reignsThe bottle of Hypnotic Poisonfragrance of mysteryis an absolute icon. A sultry incarnation of the forbidden fruit. Tempting red apple. Its glass appears possessed with molten lava.",
+        "image":"https://i.ibb.co/cbb9PC7/Dior-1.png"
+    },
+    {   
+        "name":"Miss Dior Blooming Bouquet Eau De Toilette",
+        "brand":"Dior",
+        "price":148.00,
+        "quantity":10,
+        "supplier":"David Jones",
+        "size":"150ml",
+        "short-description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.",
+        "description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.Like a springtime bouquet with a hint of elegant and light woody notes, Miss Dior keeps its promise of love. Franois Demarche As a finishing touch, white musk notes delicately wrap around this springtime fragrance.The fruity top notes of Essence of Sicilian Orange combine with a tender floral heart dominated by Peony and Damask Rose",
+        "image":"https://i.ibb.co/BGQmLtr/Dior-2.png"
+    },
+    {   
+        "name":"Miss Dior Eau De Toilette Originale",
+        "brand":"Dior",
+        "price":165.00,
+        "quantity":15,
+        "supplier":"Target",
+        "size":"100ml",
+        "short-description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.",
+        "description":"In the words of Christian Dior, I created this perfume to wrap each woman in exquisite femininity, as if each of my designs were emerging from the bottle one by one. Born with the New Look in 1947, the houses first perfume incarnates the signature of a great designer in the timeless elegance and refinement of a classic green chypre with galbanum and jasmine",
+        "image":"https://i.ibb.co/zQ3ky8H/Dior-3.png"
+    },
+    {   
+        "name":"Hypnotic Poison Eau de Parfum",
+        "brand":"Dior",
+        "price":180.00,
+        "quantity":10,
+        "supplier":"Myer",
+        "size":"50ml",
+        "short-description":"Seeped in extreme natural tones, Hypnotic Poison Eau de Parfum draws its strength from powerful absolutes.",
+        "description":"Seeped in extreme natural tones, Hypnotic Poison Eau de Perfume draws its strength from powerful absolutes.The lush charm of sambac jasmine absolute mingled with a welcoming orange blossom absolute is wrapped in smooth, intensely evocative tonka bean. The round licorice note behind the seductiveness of Hypnotic Poison is boosted to new, bolder heights. It creates irresistible appeal empowered by the vanilla, an immediate sign of gratitude. An atmosphere of total deliciousness reignsThe bottle of Hypnotic Poisonfragrance of mysteryis an absolute icon. A sultry incarnation of the forbidden fruit. Tempting red apple. Its glass appears possessed with molten lava.",
+        "image":"https://i.ibb.co/cbb9PC7/Dior-1.png"
+    },
+    {   
+        "name":"Miss Dior Blooming Bouquet Eau De Toilette",
+        "brand":"Dior",
+        "price":148.00,
+        "quantity":10,
+        "supplier":"David Jones",
+        "size":"150ml",
+        "short-description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.",
+        "description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.Like a springtime bouquet with a hint of elegant and light woody notes, Miss Dior keeps its promise of love. Franois Démarche As a finishing touch, white musk notes delicately wrap around this springtime fragrance.The fruity top notes of Essence of Sicilian Orange combine with a tender floral heart dominated by Peony and Damask Rose",
+        "image":"https://i.ibb.co/BGQmLtr/Dior-2.png"
+    },
+    {   
+        "name":"Miss Dior Eau De Toilette Originale",
+        "brand":"Dior",
+        "price":165.00,
+        "quantity":15,
+        "supplier":"Target",
+        "size":"100ml",
+        "short-description":"Delicate and light, Miss Dior Blooming Bouquet is a tender floral bouquet.",
+        "description":"In the words of Christian Dior, I created this perfume to wrap each woman in exquisite femininity, as if each of my designs were emerging from the bottle one by one. Born with the New Look in 1947, the houses first perfume incarnates the signature of a great designer in the timeless elegance and refinement of a classic green chypre with galbanum and jasmine",
+        "image":"https://i.ibb.co/zQ3ky8H/Dior-3.png"
+    }
+]
