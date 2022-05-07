@@ -70,7 +70,17 @@ async function run(){
             console.log('Adding new perfume', req.body);
             const result = await perfumeCollection.insertOne(newPerfume);
             res.send(result);
-        })
+        });
+
+        app.get('/myItems', async(req,res) =>{
+               
+            const email = req.query.email;
+            console.log(email);
+            const query={email:email};
+            const cursor= perfumeCollection.find(query);
+            const perfumes=await cursor.toArray();
+            res.send(perfumes);
+        });
 
     }
     finally{
