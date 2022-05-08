@@ -27,6 +27,7 @@ async function run(){
         await client.connect();
         const perfumeCollection=client.db('warehouse').collection('perfume');
   
+        //get all
         app.get('/perfume', async(req,res) =>{
             const query = {};
             const cursor = perfumeCollection.find(query);
@@ -34,6 +35,7 @@ async function run(){
             res.send(perfumes);
         });
 
+        //get perfume with id
         app.get('/perfume/:id', async(req,res) =>{
             const id=req.params.id;
             const query={_id:ObjectId(id)};
@@ -42,6 +44,7 @@ async function run(){
             res.send(perfume);
         });
 
+        //update perfume with id
         app.put('/perfume/:id',async(req,res) =>{
             const id=req.params.id;
             const updatedPerfumeQuantity=req.body;
@@ -58,6 +61,7 @@ async function run(){
               res.send(result);
         });
 
+        //delete perfume with id
         app.delete('/perfume/:id', async(req,res) => {
             const id=req.params.id;
             const query={_id:ObjectId(id)};
@@ -65,6 +69,7 @@ async function run(){
             res.send(result);
         });
 
+        //add new perfume
         app.post('/perfume',async(req,res) =>{
             const newPerfume=req.body;
             console.log('Adding new perfume', req.body);
@@ -72,6 +77,7 @@ async function run(){
             res.send(result);
         });
 
+        //get my items
         app.get('/myItems', async(req,res) =>{
                
             const email = req.query.email;
